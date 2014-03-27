@@ -1,0 +1,4 @@
+#!/bin/sh
+
+ifconfig $INTERFACE 10.77.30.4 netmask 255.255.0.0
+
